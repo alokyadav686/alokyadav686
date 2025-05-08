@@ -1,35 +1,63 @@
-# Hi there 👋, I'm Alok Yadav!
+<h1 align="center">👋 Hey there, I'm Alok Yadav!</h1>
 
-Welcome to my GitHub profile! I'm passionate about software development, open-source contribution, and constantly learning new technologies.
+<p align="center">
+  💻 Flutter Developer | 📱 App Enthusiast | 🌐 Web Explorer | 💡 Lifelong Learner
+</p>
 
 ---
 
 ## 🚀 About Me
-- 🔭 I’m currently working on **[your current project or area of interest]**.
-- 🌱 I’m currently learning **[App Development]**.
-- 👯 I’m looking to collaborate on **[full-stack applications, open-source tools]**.
-- 💬 Ask me about **[App Development]**.
+
+- 🔭 I’m currently building **Flutter apps** and exploring **Supabase integration**.
+- 🌱 Currently sharpening my skills in **App Development** and **DSA in Java**.
+- 👯 I love collaborating on **open-source** and **full-stack** projects.
+- 💬 Ask me about **Flutter, Firebase, Supabase, Java, or anything tech!**
+- 🎯 Goal: To build impactful apps that solve real-world problems and enhance user experience.
 
 ---
 
-## 🛠️ Tech & Tools I Use
-Here are some of the tools and technologies I work with:
-- **Languages**: [Dart ,java]
-- **Frameworks/Libraries**: [flutter]
-- **Tools**: [vs code, git ]
+## 🛠️ Tech Stack & Tools
+
+### 👨‍💻 Languages
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### 📱 Frameworks & Libraries
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![GetX](https://img.shields.io/badge/GetX-E10098?style=for-the-badge&logo=flutter&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+### 🛠️ Tools & Platforms
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
-## 📈 GitHub Stats
-![Alok's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alokyadav686&show_icons=true&theme=radical)
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alokyadav686&show_icons=true&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alokyadav686&layout=compact&theme=radical" height="150"/>
+</p>
 
 ---
 
-## 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/alok2005/)
-- [Twitter](https://x.com/alok_2799)
-- [Email](mailto:alokkumaryadav2799@gmail.com)
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/alok2005/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:alokkumaryadav2799@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://x.com/alok_2799"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+</p>
 
 ---
 
-Feel free to explore my repositories and reach out if you'd like to collaborate on something exciting!
+## 🧠 Fun Fact
+
+✨ I enjoy transforming UI designs into fully functional apps and believe that clean code is a form of art.
+
+---
+
+> _“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
+
