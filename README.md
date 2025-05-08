@@ -14,9 +14,9 @@ Welcome to my GitHub profile! I'm passionate about software development, open-so
 
 ## 🛠️ Tech & Tools I Use
 Here are some of the tools and technologies I work with:
-- **Languages**: [list programming languages, e.g., Python, JavaScript, etc.]
-- **Frameworks/Libraries**: [list frameworks/libraries, e.g., React, Django, etc.]
-- **Tools**: [list tools, e.g., Git, Docker, etc.]
+- **Languages**: [Dart ,java]
+- **Frameworks/Libraries**: [flutter]
+- **Tools**: [vs code, git ]
 
 ---
 
@@ -27,7 +27,7 @@ Here are some of the tools and technologies I work with:
 
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/alok2005/)
-- [Twitter](https://twitter.com/alokyadav686)
+- [Twitter](https://x.com/alok_2799)
 - [Email](mailto:alokkumaryadav2799@gmail.com)
 
 ---
