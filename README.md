@@ -1,156 +1,133 @@
-<h1 align="center">👋 Hey, I'm Alok Yadav</h1>
+<div align="center">
 
-<p align="center">
-  <b>Flutter Developer</b> • <b>CTO @ Campus Cafe</b> • <b>Mobile & Full-Stack Developer</b>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:2563EB&height=180&section=header&text=Alok%20Yadav&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Flutter%20%7C%20Backend%20%7C%20Full-Stack%20%7C%20DSA%20in%20C%2B%2B&descAlignY=60&descSize=18" width="100%"/>
 
-<p align="center">
-  <a href="https://alokyadav.vercel.app/">Portfolio</a> •
-  <a href="https://www.linkedin.com/in/alok2005/">LinkedIn</a> •
-  <a href="https://github.com/alokyadav686">GitHub</a> •
-  <a href="mailto:alokkumaryadav2799@gmail.com">Email</a>
-</p>
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&pause=1200&color=3B82F6&center=true&vCenter=true&width=720&lines=Flutter+Developer+%F0%9F%93%B1;Backend+Developer+%E2%9A%99%EF%B8%8F;Full-Stack+Developer+%F0%9F%8C%90;DSA+in+C%2B%2B+%F0%9F%A7%A0;Building+Campus+Cafe+%E2%98%95" />
+
+<br><br>
+
+<a href="https://alokyadav.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/alok2005/">
+<img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/alokyadav686">
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="mailto:alokkumaryadav2799@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-I'm a **Flutter Developer** passionate about building scalable, user-friendly applications and turning ideas into real-world products.
+I'm a **Flutter Developer with 2 years of experience**, passionate about building production-ready applications and solving real-world problems.
 
-* 👨‍💻 **CTO @ Campus Cafe**
-* 📱 **1.5+ years of experience** in Flutter & App Development
-* 🔥 Experienced with **Flutter, Dart, GetX, Firebase & Supabase**
-* 🌐 Exploring **Full-Stack Development, REST APIs & Web Technologies**
-* 🧠 Currently strengthening my **DSA skills in Java**
-* 🚀 Building and maintaining production-ready applications
-* 🤝 Open to collaborating on **Open Source & impactful projects**
-* 🎯 Goal: Build products that solve **real-world problems** and create great user experiences
+* 📱 Building mobile applications with **Flutter & Dart**
+* ⚙️ Developing **Backend Services & REST APIs**
+* 🌐 Growing as a **Full-Stack Developer**
+* 🧠 Practicing **DSA in C++**
+* ☕ **Building Campus Cafe** as CTO & Lead Developer
+* ⚡ Working with **Real-Time Systems & WebSockets**
+* 🏗️ Interested in **Scalable Architecture & System Design**
+
+---
+
+## ☕ Campus Cafe
+
+### Building technology for better campus dining.
+
+**Campus Cafe** is a food ordering ecosystem built for college campuses, helping students order food while giving merchants the tools to manage their operations digitally.
+
+### Student App
+
+`Food Ordering` · `Cart & Checkout` · `Order Tracking` · `Notifications`
+
+### Merchant App
+
+`Order Management` · `Inventory` · `Billing / POS` · `Analytics`
+
+### Technology
+
+`Flutter` · `GetX` · `REST APIs` · `WebSockets` · `Supabase`
+
+**Role:** `CTO & Lead Developer`
+
+<br>
+
+<div align="center">
+
+<a href="https://play.google.com/store/apps/details?id=com.campuscafe">
+<img src="https://img.shields.io/badge/GET_IT_ON-Google_Play-111827?style=for-the-badge&logo=google-play&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
+<div align="center">
 
-<p>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
+<img src="https://skillicons.dev/icons?i=flutter,dart,cpp,nodejs,express,firebase,supabase,mongodb,postgresql,javascript,python,git,github,figma,vscode,postman&perline=8" />
 
-### 📱 Mobile Development
-
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GetX-E10098?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white"/>
-</p>
-
-### ☁️ Backend & Database
-
-<p>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</p>
-
-### 🧰 Tools & Platforms
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-</p>
+</div>
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Selected Projects
 
-### ☕ Campus Cafe
-
-**Campus Cafe** is a food ordering ecosystem designed for college campuses.
-
-* 📱 Student mobile application for food ordering
-* 🖥️ Merchant application for order & inventory management
-* 🧾 POS / billing integration
-* 📦 Inventory management
-* 🔔 Real-time order updates
-* ⚡ Real-time communication using WebSockets
-* ☁️ Backend APIs & cloud services
-* 🎯 Built to reduce crowd management problems in college canteens
-
-> **Role:** CTO & Lead Developer
+| Project           | Description                      | Stack                       |
+| :---------------- | :------------------------------- | :-------------------------- |
+| ☕ **Campus Cafe** | Campus food ordering ecosystem   | Flutter · REST · WebSockets |
+| 🧠 **QuizSutra**  | Interactive quiz platform        | Flutter · Firebase          |
+| 🏥 **My Medic**   | Healthcare application           | Flutter · REST API          |
+| ☁️ **CCC App**    | Cloud Computing Cell application | Flutter · Firebase          |
 
 ---
 
-## 💻 Other Projects
+## 📊 GitHub
 
-| Project         | Description                                          | Technologies                       |
-| --------------- | ---------------------------------------------------- | ---------------------------------- |
-| ☕ Campus Cafe   | Campus food ordering & merchant management ecosystem | Flutter, GetX, REST API, WebSocket |
-| 🧠 QuizSutra    | Interactive quiz application                         | Flutter, Firebase                  |
-| 🏥 My Medic     | Healthcare application                               | Flutter, REST API                  |
-| ☁️ CCC App      | App for Cloud Computing Cell                         | Flutter, Firebase                  |
-| 🌦️ Weather App | Weather information application                      | Flutter, REST API                  |
+<div align="center">
 
----
+<a href="https://github.com/alokyadav686">
+<img src="https://img.shields.io/badge/GitHub-alokyadav686-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-## 📊 GitHub Stats
+<a href="https://github.com/alokyadav686?tab=repositories">
+<img src="https://img.shields.io/badge/Repositories-View%20Projects-2563EB?style=for-the-badge"/>
+</a>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alokyadav686&show_icons=true&hide_border=true&theme=transparent" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alokyadav686&layout=compact&hide_border=true&theme=transparent" height="170"/>
-</p>
+<a href="https://github.com/alokyadav686?tab=followers">
+<img src="https://img.shields.io/github/followers/alokyadav686?label=Followers&style=for-the-badge&color=1E3A8A"/>
+</a>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=alokyadav686&hide_border=true&theme=transparent" height="170"/>
-</p>
+</div>
 
 ---
 
-## 🧠 Currently Learning
+<div align="center">
 
-* 📚 Data Structures & Algorithms in **Java**
-* 🏗️ Scalable Flutter Architecture
-* ⚡ Real-time Applications & WebSockets
-* 🌐 Full-Stack Development
-* ☁️ Backend & Cloud Technologies
-* 🚀 System Design & Software Engineering
+### Let's build something meaningful.
 
----
+<a href="https://alokyadav.vercel.app/">
+<img src="https://img.shields.io/badge/Explore_My_Work-2563EB?style=for-the-badge"/>
+</a>
 
-## 🤝 Let's Connect
+<a href="mailto:alokkumaryadav2799@gmail.com">
+<img src="https://img.shields.io/badge/Let's_Talk-0F172A?style=for-the-badge"/>
+</a>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/alok2005/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://alokyadav.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="https://x.com/alok_2799">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-  </a>
-  <a href="mailto:alokkumaryadav2799@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+<br><br>
 
----
+<sub>Build. Learn. Ship. Repeat.</sub>
 
-## ⚡ Fun Fact
+</div>
 
-> I enjoy turning UI designs into fully functional applications and believe that **clean code, good architecture, and great UX** go hand in hand.
-
-<p align="center">
-  <i>“Code is like humor. When you have to explain it, it’s bad.”</i>
-</p>
-
-<p align="center">
-  ⭐ If you like my work, consider giving my repositories a star!
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:1E3A8A,100:0F172A&height=100&section=footer" width="100%"/>
